@@ -8,6 +8,9 @@ body {
   background: radial-gradient(circle at center, rgba(255, 255, 255, 0.5), #fff 1px, transparent 2px, transparent 20px), linear-gradient(to right, #3494e6, #ec6ead);
   background-size: 60px 65px, 100%;
 }
+.hide{
+  display: none;
+}
 body .wrap {
   position: relative;
   width: 700px;
